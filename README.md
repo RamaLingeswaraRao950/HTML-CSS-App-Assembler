@@ -50,8 +50,7 @@ You need a modern web browser to view the website.
 
 ### Installation
 
-1. Clone the repo
-   
+1. Clone the repo,
    git clone https://github.com/RamaLingeswaraRao950/HTML-CSS-App-Assembler.git
    
 2. Open `index.html` in your web browser to view the application.
