@@ -1,5 +1,4 @@
-# HTML-CSS-App-Assembler is an all-in-one website designed to bring together a variety of daily-use applications.
-
+HTML-CSS-App-Assembler is an all-in-one website designed to bring together a variety of daily-use applications.
 This comprehensive platform is categorized into five main sections:
 
 1. **Information**
@@ -52,7 +51,7 @@ You need a modern web browser to view the website.
 
 1. Clone the repo
    
-   git clone 
+   git clone https://github.com/RamaLingeswaraRao950/HTML-CSS-App-Assembler.git
    
 2. Open `index.html` in your web browser to view the application.
 
